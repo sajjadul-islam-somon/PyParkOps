@@ -8,7 +8,7 @@
 
 A compact, demo-ready Streamlit app that detects license plates from uploaded photos, records entry times, and computes simple parking fees.
 
-Quick links: [Run locally](#quick-start) • [Live demo](https://example.com)
+Quick links: [Run locally](#quick-start) • [Live demo](https://pyparkops.streamlit.app/)
 
 Why you'll like it
 - Fast image-based entry/exit workflow
