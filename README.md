@@ -1,6 +1,6 @@
 # PyParkOps
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-Replace%20URL-brightgreen)](https://example.com) [![Streamlit](https://img.shields.io/badge/Framework-Streamlit-orange)](https://streamlit.io) [![Python](https://img.shields.io/badge/Python-3.11-blue)](https://www.python.org) [![Model](https://img.shields.io/badge/Model-YOLOv8-red)](https://github.com/ultralytics/) [![OCR](https://img.shields.io/badge/OCR-EasyOCR-lightgrey)](https://github.com/JaidedAI/EasyOCR) [![License-MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-Replace%20URL-brightgreen)](https://pyparkops.streamlit.app/) [![Streamlit](https://img.shields.io/badge/Framework-Streamlit-orange)](https://streamlit.io) [![Python](https://img.shields.io/badge/Python-3.11-blue)](https://www.python.org) [![Model](https://img.shields.io/badge/Model-YOLOv8-red)](https://github.com/ultralytics/) [![OCR](https://img.shields.io/badge/OCR-EasyOCR-lightgrey)](https://github.com/JaidedAI/EasyOCR) [![License-MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 <p align="center">
   <img src="pyparkops-logo.png" alt="PyParkOps logo" width="140" />
@@ -49,12 +49,6 @@ streamlit run PyParkOps-App.py
 ## Tips
 - Keep upload images <= 2MB for reliable uploads.
 - If `pyparkops-logo.png` is missing, the app uses a text badge instead.
-
-## Replace the Live Demo
-- Edit the top badge link and replace `https://example.com` with your deployed app URL.
-
-## License
-- MIT
 
 ## Contributing
 - Open an issue for bugs or feature requests, or submit a focused PR.
