@@ -1,6 +1,6 @@
 # PyParkOps
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-Replace%20URL-brightgreen)](https://pyparkops.streamlit.app/) [![Streamlit](https://img.shields.io/badge/Framework-Streamlit-orange)](https://streamlit.io) [![Python](https://img.shields.io/badge/Python-3.11-blue)](https://www.python.org) [![Model](https://img.shields.io/badge/Model-YOLOv8-red)](https://github.com/ultralytics/) [![OCR](https://img.shields.io/badge/OCR-EasyOCR-lightgrey)](https://github.com/JaidedAI/EasyOCR) [![License-MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-Replace%20URL-brightgreen)](https://pyparkops.streamlit.app/) [![Streamlit](https://img.shields.io/badge/Framework-Streamlit-orange)](https://streamlit.io) [![Python](https://img.shields.io/badge/Python-3.11-blue)](https://www.python.org) [![Model](https://img.shields.io/badge/Model-YOLOv8-red)](https://github.com/ultralytics/) [![OCR](https://img.shields.io/badge/OCR-EasyOCR-lightgrey)](https://github.com/JaidedAI/EasyOCR) 
 
 <p align="center">
   <img src="pyparkops-logo.png" alt="PyParkOps logo" width="140" />
